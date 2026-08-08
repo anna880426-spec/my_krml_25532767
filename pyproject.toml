@@ -1,6 +1,8 @@
+# data for PyPI
+
 [project]
 name = "my_package_albee_0002"
-version = "0.1.0"
+version = "0.0.2"
 description = "for amla"
 authors = [
     { name = "albee" }
